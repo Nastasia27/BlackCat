@@ -21,7 +21,7 @@
 🚀 Як запустити
  1. Склонуй репозиторій:
 
-git clone https://github.com/your-username/cat-articles.git
+git clone https://github.com/Nastasia27/BlackCat.git
 
 
  2. Відкрий index.html у браузері (локально або через live server).
